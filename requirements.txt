@@ -1,0 +1,3 @@
+Flask==2.3.2
+sesame-ai @ git+https://github.com/ijub/sesame_ai.git
+gunicorn==20.1.0
